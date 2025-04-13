@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build*/
+*dist*/
+*.egg-info/
+*.spec
+
+# Virtual environment
+venv/
+env/
+*.env
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: If your data files are very large and not meant for the repo
+# data/large_data_file.csv
